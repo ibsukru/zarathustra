@@ -1,0 +1,22 @@
+# Private development files
+*.draft
+*.notes
+*_private.md
+
+# Pitch materials (keep private until ready)
+pitch-deck-draft/
+lookbook-draft/
+
+# Personal notes
+journal/
+ideas/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.bak
+*~
+.BEFORE

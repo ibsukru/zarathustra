@@ -329,6 +329,128 @@ He starts walking. The crowd parts. Flows. Syncs.
 
 He walks out of the square.
 
+EXT. AMSTERDAM - CANAL - DAY
+
+The Man walks along the canal. The city is moving again, but wrong. People glance at him in sync. Traffic lights flip green ahead of him.
+
+He stops.
+
+A YOUNG MAN walks toward him. Mid-20s. Middle Eastern. Dark hair, clean-shaven. Dressed simply—jeans, jacket.
+
+In his hands: a GOLDEN FARAVAHAR STATUE. Baby-sized. Wings spread. Intricate, gleaming in the daylight.
+
+The Young Man sees the Man. Smiles. Not a polite smile. A knowing smile.
+
+They pass each other.
+
+The Man turns. Watches him go.
+
+The Young Man doesn't look back.
+
+                         MAN (V.O.)
+           A sign. Or a test.
+
+The Man keeps walking.
+
+EXT. HAARLEMMERPOORT - DAY
+
+A historic gate. Brick arches. Old Amsterdam meeting new.
+
+The Man crosses the street. A RED LIGHT. He doesn't stop. Walks straight through.
+
+Cars slow. No one honks. They wait.
+
+He reaches the center of the gate. Stands beneath the arch.
+
+The BUILDING above him LIGHTS UP. Not sunset. Not streetlights. The entire structure glows—white, gold, electric. Like an Amsterdam Light Festival installation.
+
+But it's daytime. And this has never been a festival site.
+
+The Man looks up. Opens his arms. Palms up. Receiving.
+
+                         MAN (V.O.)
+           I am the creator.
+
+To his left: a WOODEN SIGN. Weathered. Restoration notice.
+
+Hand-painted letters: **"I DIED ONCE."**
+
+He stares at it.
+
+                         MAN (whisper)
+           I died once.
+
+FOOTSTEPS behind him.
+
+A POLICE OFFICER approaches. Mid-30s. Dutch. Calm but firm.
+
+                         OFFICER
+           Sir, you crossed a red light.
+
+The Man doesn't turn. Still looking at the sign.
+
+                         OFFICER
+           Sir?
+
+The Man slowly lowers his arms. Turns.
+
+                         MAN
+           I know.
+
+The Officer studies him. Something is off.
+
+                         OFFICER
+           ID, please.
+
+The Man reaches into his pocket. Hands over his ID. The Officer checks it.
+
+                         OFFICER
+           You live nearby?
+
+                         MAN
+           Jordaan.
+
+The Officer looks up at the building. At the lights.
+
+                         OFFICER (confused)
+           What's with the lights?
+
+The Man follows his gaze. The building is still glowing.
+
+                         MAN
+           You see them too?
+
+The Officer frowns.
+
+                         OFFICER
+           Of course I see them. Is this some kind of installation?
+
+The Man smiles. Quiet. Dangerous.
+
+                         MAN
+           Something like that.
+
+The Officer hands back the ID.
+
+                         OFFICER
+           Don't cross red lights. Understood?
+
+The Man nods. Takes the ID.
+
+The Officer walks away. Glances back once. The Man is still standing there, arms open again, looking up.
+
+The Officer shakes his head. Keeps walking.
+
+The Man closes his eyes.
+
+                         MAN (V.O.)
+           The Programme can see what I create.
+           But it doesn't understand.
+
+He opens his eyes. The lights are still there.
+
+He lowers his arms. Walks on.
+
 The city breathes with him.
 
 FADE TO BLACK.

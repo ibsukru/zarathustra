@@ -153,10 +153,14 @@ For collaboration, rights inquiries, or festival submissions, please reach out v
 
 ## 📜 Copyright
 
-**Copyright © 2024 Ibrahim Velinov**  
+**Copyright © 2024 Iliyan Velinov**  
 **All Rights Reserved**
 
-This screenplay and all associated materials are protected by copyright. No part of this work may be reproduced, distributed, or transmitted in any form without prior written permission from the copyright holder.
+**WGA Registration:** 2321535  
+**Registered:** November 15, 2025  
+**Expires:** November 15, 2030
+
+This screenplay and all associated materials are protected by copyright and registered with the Writers Guild of America West. No part of this work may be reproduced, distributed, or transmitted in any form without prior written permission from the copyright holder.
 
 ---
 

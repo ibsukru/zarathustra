@@ -1,5 +1,17 @@
 # PART 4
 
+**ZARATHUSTRA: THE PROGRAMME**
+
+Written by Iliyan Velinov
+
+Copyright © 2024 Iliyan Velinov  
+All Rights Reserved
+
+WGA Registration: 2321535  
+Registered: November 15, 2025
+
+---
+
 ```plaintext
 INT. MAN'S APARTMENT - LIVING ROOM - DAY
 

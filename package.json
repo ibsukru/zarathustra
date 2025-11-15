@@ -1,0 +1,23 @@
+{
+  "name": "zarathustra",
+  "version": "1.0.0",
+  "description": "> A philosophical short film about ego death, dopamine capitalism, and the cost of waking up.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ibsukru/zarathustra.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ibsukru/zarathustra/issues"
+  },
+  "homepage": "https://github.com/ibsukru/zarathustra#readme",
+  "devDependencies": {
+    "markdown-pdf": "^11.0.0"
+  }
+}

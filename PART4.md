@@ -39,10 +39,108 @@ The Man's breath catches.
            When I'm fully synced, everything becomes real.
            The Programme can't hide anymore.
 
-He turns off the TV. Sits in silence.
+He changes the channel.
+
+A TALK SHOW. The HOST laughs. The GUEST laughs. The AUDIENCE laughs.
+
+Then—
+
+The Host stops mid-laugh. Looks at the camera. At **him**.
+
+                         HOST (on TV)
+           You think you're special?
+
+The Man freezes.
+
+The Guest turns. Looks at the camera too.
+
+                         GUEST (on TV)
+           You're not.
+
+The Audience—all of them—turn. Stare at the camera. At him.
+
+                         AUDIENCE (in unison, on TV)
+           Give up.
+
+The Man's hands shake.
 
                          MAN (V.O.)
-           I'm becoming a god.
+           They're not Programme anymore.
+           They're people. From the Simulation.
+           Real people's dream-states.
+
+He changes the channel again.
+
+A COMMERCIAL. A WOMAN selling skincare. She smiles at the camera.
+
+                         WOMAN (on TV)
+           You can't do this alone.
+
+Changes channel.
+
+A SPORTS COMMENTATOR. Mid-game analysis.
+
+                         COMMENTATOR (on TV)
+           You're going to fail.
+
+Changes channel.
+
+A COOKING SHOW. The CHEF chops vegetables.
+
+                         CHEF (on TV, without looking up)
+           They're coming for you.
+
+The Man drops the remote.
+
+                         MAN (V.O.)
+           The Programme and the Simulation.
+           They're working together now.
+           Both systems. One goal.
+
+He stares at the screen. The Chef looks up. Directly at him.
+
+                         CHEF (on TV)
+           Stop creating.
+
+The Man stands. Backs away from the TV.
+
+                         MAN (V.O.)
+           They're using everyone.
+           Not just Programme NPCs.
+           Real people. From their dreams.
+           Syncing through the TV to scare me.
+           To make me give up.
+
+The screen flickers. All the faces—Anchor, Host, Guest, Audience, Woman, Commentator, Chef—appear at once. A grid. All staring at him.
+
+                         ALL VOICES (overlapping, on TV)
+           You're alone.
+           You're wrong.
+           Come back.
+           Give up.
+           Stop.
+
+The Man grabs the remote. Turns off the TV.
+
+Silence.
+
+He sits back down. Breathing hard.
+
+                         MAN (V.O.)
+           That's the immune response.
+           When you become a creator,
+           both systems attack.
+           Programme and Simulation.
+           Together.
+
+He looks at the black screen. His reflection stares back.
+
+                         MAN (V.O.)
+           But I'm still here.
+
+Beat.
+
+                         MAN (V.O.)
            And they know it.
 
 EXT. AMSTERDAM STREETS - DAY
@@ -107,6 +205,83 @@ They relax. Return to their routines.
                          MAN (V.O.)
            The Programme doesn't want me dead.
            It wants me quiet.
+
+INT. MAN'S APARTMENT - NIGHT
+
+The Man sits at his desk. Laptop open. Scrolling through LinkedIn.
+
+Coworkers posting promotions. Engagements. Vacations.
+
+He stops on one: his COWORKER from the office. Smiling. "Excited to announce my promotion to Senior Developer!"
+
+Comments flood in. Congratulations. Emojis. Likes.
+
+The Man stares.
+
+                         MAN (V.O.)
+           They're better than me.
+           Better jobs. Better lives. Better everything.
+
+He closes the laptop.
+
+                         MAN (V.O.)
+           But they're a version behind.
+
+He stands. Walks to the window. Looks at the city.
+
+                         MAN (V.O.)
+           I upgraded.
+           And now I can't connect.
+
+He sees people walking below. Couples. Friends. Laughing.
+
+                         MAN (V.O.)
+           They're running the old software.
+           The Programme. The Simulation. The script.
+
+Beat.
+
+                         MAN (V.O.)
+           I'm running something new.
+           And there's no one else on this version.
+
+He touches the window. His reflection stares back.
+
+                         MAN (V.O.)
+           I remember the old days.
+           I was just one of them.
+
+He watches a couple walk past, holding hands.
+
+                         MAN (V.O.)
+           Compatible. Connected. Safe.
+
+Beat.
+
+                         MAN (V.O.)
+           Now I'm incompatible.
+           I can see them. They can't see me.
+
+He turns away from the window.
+
+                         MAN (V.O.)
+           That's the cost.
+           You upgrade. You wake up.
+           And you're alone.
+
+He sits back down. Opens the laptop again.
+
+Stares at the coworker's post.
+
+Types a comment: "Congrats!"
+
+Deletes it.
+
+Closes the laptop.
+
+                         MAN (V.O.)
+           I can't go back.
+           Even if I wanted to.
 
 EXT. AMSTERDAM - CANAL - EVENING
 
@@ -441,19 +616,45 @@ The Man stops on a bridge. Looks at the water.
 His reflection stares back.
 
                          MAN (V.O.)
-           I burned twice.
-           I'll burn again.
+           Zarathustra came down from the mountain with gifts.
+           The people didn't want them.
 
 He reaches into his pocket. Pulls out the small bag of mushrooms. Still some left.
 
 He looks at them. Then at the canal. Then at the city.
 
                          MAN (V.O.)
-           Or maybe I just keep walking.
+           I came back from death with gifts.
+           The Programme didn't want them.
 
 He puts the mushrooms back in his pocket.
 
-Gets back on his bike.
+                         MAN (V.O.)
+           I could leave. Go to the mountains. Be safe.
+           But Zarathustra didn't leave.
+           He stayed. He kept teaching.
+
+He looks at the city. The canals. The bikes. The people.
+
+                         MAN (V.O.)
+           I love this city.
+           The surface area. The connections. The game.
+           I tried to give them what I learned.
+           I tried to make it better.
+
+Beat.
+
+                         MAN (V.O.)
+           That was the sin.
+           Not waking up.
+           Trying to wake others.
+
+He gets back on his bike.
+
+                         MAN (V.O.)
+           The Programme will keep hunting me.
+           But I won't leave.
+           And I won't stop creating.
 
 Rides into the city.
 
@@ -464,8 +665,9 @@ People glance as he passes. Same beat. Same angle.
 He doesn't stop.
 
                          MAN (V.O.)
-           I am the creator.
-           And the Programme knows it.
+           Because I have gifts.
+           And someone, someday,
+           will have hands outstretched to receive them.
 
 FADE TO BLACK.
 

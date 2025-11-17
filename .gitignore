@@ -11,6 +11,10 @@ lookbook-draft/
 journal/
 ideas/
 
+# Outreach & contacts (private)
+*_CONTACTS.md
+*_OUTREACH.md
+
 # System files
 .DS_Store
 Thumbs.db

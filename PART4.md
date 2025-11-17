@@ -257,6 +257,21 @@ Beat.
            I'm running something new.
            And there's no one else on this version.
 
+He watches a couple disappear around a corner.
+
+                         MAN (V.O.)
+           They'll tell you it's reincarnation.
+           Past lives. Ancient wisdom.
+           That's the Programme's trap—
+           making you look backward.
+
+Beat.
+
+                         MAN (V.O.)
+           The fire isn't from the past.
+           It's from NOW.
+           And it only burns once.
+
 He touches the window. His reflection stares back.
 
                          MAN (V.O.)
@@ -294,6 +309,19 @@ Closes the laptop.
                          MAN (V.O.)
            I can't go back.
            Even if I wanted to.
+
+Beat.
+
+                         MAN (V.O.)
+           The Simulation is random.
+           The Programme is deterministic.
+           Neither offers reincarnation.
+           This is my only life.
+
+He stares at the dark screen.
+
+                         MAN (V.O.)
+           I'm not spending it asking permission.
 
 EXT. AMSTERDAM - CANAL - EVENING
 
@@ -574,7 +602,7 @@ He pulls back.
                          WOMAN
            Sir—
 
-                         MAN
+                         MAN (V.O.)
            I know what you are.
 
 He steps around her. Walks toward the exit.
@@ -590,6 +618,20 @@ The Man stops. Looks at them.
            If I say "I am god," they'll stop me.
            Maybe kill me.
            The Programme will use them.
+
+Beat.
+
+                         MAN (V.O.)
+           They want me to come back.
+           To ask for authorization.
+           To be safe, compliant, average.
+
+He looks at the Woman one last time.
+
+                         MAN (V.O.)
+           But this is my only chance.
+           No resets. No next life.
+           Just this one.
 
 He looks back at the Woman. At the painting.
 
@@ -660,6 +702,20 @@ Beat.
            That was the sin.
            Not waking up.
            Trying to wake others.
+
+He looks at his reflection in the water.
+
+                         MAN (V.O.)
+           Religion says: wait for the next life.
+           The Programme says: stay average, stay safe.
+           Both want you to defer.
+           To ask permission.
+
+Beat.
+
+                         MAN (V.O.)
+           But the fire is NOW.
+           And I'm not asking.
 
 He gets back on his bike.
 

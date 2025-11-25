@@ -1,23 +1,31 @@
 {
-  "name": "zarathustra",
-  "version": "1.0.0",
-  "description": "> A philosophical short film about ego death, dopamine capitalism, and the cost of waking up.",
-  "main": "index.js",
+  "name": "app",
+  "version": "0.1.0",
+  "private": true,
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/ibsukru/zarathustra.git"
+  "dependencies": {
+    "@react-three/drei": "^10.7.7",
+    "@react-three/fiber": "^9.4.0",
+    "@types/three": "^0.181.0",
+    "framer-motion": "^12.23.24",
+    "markdown-pdf": "^11.0.0",
+    "next": "16.0.4",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "three": "^0.181.2"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/ibsukru/zarathustra/issues"
-  },
-  "homepage": "https://github.com/ibsukru/zarathustra#readme",
   "devDependencies": {
-    "markdown-pdf": "^11.0.0"
+    "@types/node": "^20",
+    "@types/react": "^18.3.27",
+    "@types/react-dom": "^18.3.7",
+    "babel-plugin-react-compiler": "1.0.0",
+    "eslint": "^9",
+    "eslint-config-next": "16.0.4",
+    "typescript": "^5"
   }
 }
